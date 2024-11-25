@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabbedPageScrollViewIssue.MyChildPage"
+             Title="MyChildPage">
+	<ScrollView>
+
+		<StackLayout>
+			<Label Text="Label 1" />
+			<Label Text="Label 2" />
+			<Label Text="Label 3" />
+			<Label Text="Label 4" />
+			<Label Text="Label 5" />
+			<Label Text="Label 6" />
+			<Label Text="Label 7" />
+			<Label Text="Label 8" />
+			<Label Text="Label 9" />
+			<Label Text="Label 10" />
+			<Label Text="Label 11" />
+			<Label Text="Label 12" />
+			<Label Text="Label 13" />
+			<Label Text="Label 14" />
+			<Label Text="Label 15" />
+		</StackLayout>
+
+	</ScrollView>
+</ContentPage>
